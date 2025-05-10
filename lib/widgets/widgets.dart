@@ -1,0 +1,13 @@
+export 'package:flutter_application_1/widgets/appbar_name.dart';
+export 'package:flutter_application_1/widgets/navbar.dart';
+export 'package:flutter_application_1/widgets/icontext.dart';
+export 'package:flutter_application_1/widgets/input_form.dart';
+export 'package:flutter_application_1/widgets/lista_productos.dart';
+export 'package:flutter_application_1/widgets/detalle_producto.dart';
+export 'package:flutter_application_1/widgets/editar_producto.dart';
+export 'package:flutter_application_1/widgets/lista_categorias.dart';
+export 'package:flutter_application_1/widgets/detalle_categoria.dart';
+export 'package:flutter_application_1/widgets/editar_categoria.dart';
+export 'package:flutter_application_1/widgets/lista_providers.dart';
+export 'package:flutter_application_1/widgets/detalle_provider.dart';
+export 'package:flutter_application_1/widgets/editar_provider.dart';

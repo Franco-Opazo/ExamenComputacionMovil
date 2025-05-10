@@ -1,0 +1,13 @@
+export 'package:flutter_application_1/screens/error_screen.dart';
+export 'package:flutter_application_1/screens/registro_screen.dart';
+export 'package:flutter_application_1/screens/login_screen.dart';
+export 'package:flutter_application_1/screens/lista_productos_screen.dart';
+export 'package:flutter_application_1/screens/loading_screen.dart';
+export 'package:flutter_application_1/screens/detalle_producto_screen.dart';
+export 'package:flutter_application_1/screens/editar_producto_screen.dart';
+export 'package:flutter_application_1/screens/lista_categorias_screen.dart';
+export 'package:flutter_application_1/screens/detalle_categoria_screen.dart';
+export 'package:flutter_application_1/screens/editar_categoria_screen.dart';
+export 'package:flutter_application_1/screens/lista_providers_screen.dart';
+export 'package:flutter_application_1/screens/detalle_provider_screen.dart';
+export 'package:flutter_application_1/screens/editar_provider_screen.dart';
